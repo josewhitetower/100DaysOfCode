@@ -1,9 +1,38 @@
 # 100DaysOfCode
 
+# rest-api-playlist
+This is a repository that follows rest-api-playlist by The Net Ninja
+https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+### Day 45: October 26, 2017    
+
+**Today's Progress**:   
+1. Today I startet  with rest-api-playlist.  
+
+**Thoughts**:     
+1. `npm init -y`: create a package.json an autocompletes.  
+2.  HTTP Methods: GET, POST, PUT and DELETE.  
+3. Set up and express app.  
+```javascript
+const express = require("express");
+const app = express();
+  //listen for requests
+app.listen(process.env.port || 4000, function() {
+  console.log("now listening for requests");
+});
+``` 
+4. Handle GET Requests.  
+```javascript
+// handling get requests
+app.get("/api", function(req, res) {
+  console.log("GET request");
+  // res.end();
+  res.send({ name: "Yoshi" });
+});
+```
 # javascript30
 This is a repository that follows Javascript30 by @wesbos 
 https://javascript30.com/ 
-### Day 44: October 12, 2017    
+### Day 44: October 20, 2017    
 
 **Today's Progress**:   
 1. Today I continued with JavaScript30.  

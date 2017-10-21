@@ -29,6 +29,26 @@ app.get("/api", function(req, res) {
   res.send({ name: "Yoshi" });
 });
 ```
+5. Router
+```javascript
+//api.js
+const express = require("express");
+const router = express.Router();
+
+// get the list of ninjas from the database
+router.get("/ninjas", function(req, res) {
+  res.send({ type: "GET" });
+});
+module.exports = router;
+```
+```javascript
+//index.js
+const routes = require("./routes/api");
+const app = express();
+
+//initialize routes
+app.use("/api", routes);
+```
 # javascript30
 This is a repository that follows Javascript30 by @wesbos 
 https://javascript30.com/ 

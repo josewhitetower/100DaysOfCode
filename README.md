@@ -3,7 +3,27 @@
 # rest-api-playlist
 This is a repository that follows rest-api-playlist by The Net Ninja
 https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
-### Day 45: October 26, 2017    
+### Day 46: October 22, 2017    
+
+**Today's Progress**:   
+1. Today I started my app for countries information.  
+
+**Thoughts**:     
+1. API : https://restcountries.eu/rest/v2/all
+2. Fetch the API.  
+```javascript
+   function getAllCountries() {
+            const endpoint = 'https://restcountries.eu/rest/v2/all';
+            fetch(endpoint)
+                .then(blob => blob.json())
+                .then(countries => {
+                    select.innerHTML += countries.map(d => `<option value="${d.name}">${d.name}</option>`);
+                });
+
+        }
+```
+3. Asynchronous method invocation.  https://en.wikipedia.org/wiki/Asynchronous_method_invocation
+### Day 45: October 21, 2017    
 
 **Today's Progress**:   
 1. Today I startet  with rest-api-playlist.  

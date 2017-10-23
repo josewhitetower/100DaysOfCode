@@ -3,6 +3,14 @@
 # rest-api-playlist
 This is a repository that follows rest-api-playlist by The Net Ninja
 https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+### Day 47: October 22, 2017    
+
+**Today's Progress**:   
+1. Today I continue my app for countries information.  
+
+**Thoughts**:     
+1. It works!
+2. https://josewhitetower.github.io/list-of-countries/
 ### Day 46: October 22, 2017    
 
 **Today's Progress**:   

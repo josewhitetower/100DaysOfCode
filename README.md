@@ -37,6 +37,23 @@ const NinjaSchema = new Schema({
 const Ninja = mongoose.model("ninja", NinjaSchema);
 
 module.exports = Ninja;
+```  
+5. Connect to MongoDB and change the promise (MongoDB Promise is deprecated).  
+```javascript
+ mongoose.connect("mongodb://localhost/ninjago");
+mongoose.Promise = global.Promise;
+```
+6. Add an object to the Database
+```javascript
+const Ninja = require("../models/ninja");
+//add a new ninja to the database
+router.post("/ninjas", (req, res) => {
+  Ninja.create(req.body).then(ninja => {
+    res.send(ninja);
+  });
+});
+// var ninja = new Ninja(req.body);
+// ninja.save();
 ```
 ### Day 47: October 23, 2017    
 

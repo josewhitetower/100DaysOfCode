@@ -3,6 +3,41 @@
 # rest-api-playlist
 This is a repository that follows rest-api-playlist by The Net Ninja
 https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+### Day 48: October 24, 2017    
+
+**Today's Progress**:   
+1. Today I continue rest-api-playlist.  
+
+**Thoughts**:     
+1. `import` and  `export` from ES6 has not support in NodeJS.  
+2. https://www.npmjs.com/package/import-export This module can help with  it.  
+3. Mongoose: object modeling tool designed to work in an asynchronous environment.
+4. Schema and Model.
+```javascript
+//model
+const mongoose = require("mongoose");
+const Schema = mongoose.Schema;
+
+//create a ninja Schema and Model
+const NinjaSchema = new Schema({
+  name: {
+    type: String,
+    required: [true, "Name field is required"]
+  },
+  rank: {
+    type: String
+  },
+  available: {
+    type: Boolean,
+    default: false
+  }
+  //add in geo location
+});
+//Model from a Schema
+const Ninja = mongoose.model("ninja", NinjaSchema);
+
+module.exports = Ninja;
+```
 ### Day 47: October 23, 2017    
 
 **Today's Progress**:   

@@ -3,6 +3,17 @@
 # rest-api-playlist
 This is a repository that follows rest-api-playlist by The Net Ninja
 https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+
+### Day 49: October 25, 2017    
+
+**Today's Progress**:   
+1. Today I continue rest-api-playlist.  
+
+**Thoughts**:     
+1. Error handling with a middleware.  `catch()` Promise.
+2. Delete and Update using mongoose methods `findByIdAndRemove()`, `findByIdAndUpdate()` and `findOne()`.
+3. `req.params.id` to get the id from the address bar.  
+4. `req.body` to get the object sent.  
 ### Day 48: October 24, 2017    
 
 **Today's Progress**:   

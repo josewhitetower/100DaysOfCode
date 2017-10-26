@@ -4,6 +4,15 @@
 This is a repository that follows rest-api-playlist by The Net Ninja
 https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
 
+### Day 50: October 26, 2017    
+
+**Today's Progress**:   
+1. Today I continue rest-api-playlist.  
+
+**Thoughts**:     
+1. Handling GET requests.
+2. New GeoSchema using GeoJson http://http://geojson.org/.  
+3. `req.query.lng` return the `lng=` param at the url.  
 ### Day 49: October 25, 2017    
 
 **Today's Progress**:   

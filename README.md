@@ -1,8 +1,74 @@
 # 100DaysOfCode
+# portfolio
+### Day 60: November 5, 2017    
+
+**Today's Progress**:   
+1. Today I started a wikipedia viewer.
+2. I've decided to use vue-cli to practice.
+3. Fetching the Wikipedia API was a mess.  
+4. 
+ ```javascript
+  methods: {
+    findArticles() {
+      const endpoint = `https://en.wikipedia.org/w/api.php?format=json&action=query&title=<query>&generator=search&limit=10&prop=pageimages|extracts&pilimit=max&exintro&explaintext&exsentences=1&origin=*&exlimit=max&gsrsearch=${this
+        .search}`;
+      fetch(endpoint)
+        .then(data => data.json())
+        .then(data => {
+          this.articles = data.query.pages;
+          console.log(this.articles);
+        });
+    }
+  }
+ ```
+# portfolio
+### Day 54 -59: October 31-November 4, 2017    
+
+**Today's Progress**:   
+1. Today I started my new porfolio.
 
 # rest-api-playlist
 This is a repository that follows rest-api-playlist by The Net Ninja
 https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+
+### Day 53: October 30, 2017    
+
+**Today's Progress**:   
+1. Today I finished rest-api-playlist.  
+
+**Thoughts**:     
+1. I've learnt How to change the data property. 
+### Day 52: October 29, 2017    
+
+**Today's Progress**:   
+1. Today I continue rest-api-playlist.  
+
+**Thoughts**:     
+1. I've learnt How to change the data property. 
+2.
+ ```javascript
+ methods: {
+                handleSubmit: function (e) {
+
+                    const lng = this.$refs.lng.value;
+                    const lat = this.$refs.lat.value;
+                    const endpoint = `/api/ninjas?lng=${lng}&lat=${lat}`;
+
+                    fetch(endpoint)
+                        .then(data => data.json())
+                        .then(data => {
+                            this.ninjas = data;
+                        });
+                }
+            }
+```
+### Day 51: October 28, 2017    
+
+**Today's Progress**:   
+1. Today I continue rest-api-playlist.  
+
+**Thoughts**:     
+1. Added Front End to the API suing Vue JS
 
 ### Day 50: October 26, 2017    
 

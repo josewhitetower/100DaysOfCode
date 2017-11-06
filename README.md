@@ -1,5 +1,10 @@
 # 100DaysOfCode
 # portfolio
+### Day 61: November 1, 2017    
+
+**Today's Progress**:   
+1. Today I fixed some on the portfolio.
+# portfolio
 ### Day 60: November 5, 2017    
 
 **Today's Progress**:   

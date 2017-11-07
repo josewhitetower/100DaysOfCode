@@ -1,6 +1,12 @@
 # 100DaysOfCode
+
+### Day 62: November 7, 2017    
+
+**Today's Progress**:   
+1. Today I made the Pixel Art Maker Project from Google Developer Challenge Scholarship: Front-End Web Dev.
+
 # portfolio
-### Day 61: November 1, 2017    
+### Day 61: November 6, 2017    
 
 **Today's Progress**:   
 1. Today I fixed some on the portfolio.

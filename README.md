@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+### Day 63: November 8, 2017    
+
+**Today's Progress**:   
+1. Today I've just chilled, made minimum fixed on my portfolio, and listen[ sintax ](https://syntax.fm/) podcast.  
 ### Day 62: November 7, 2017    
 
 **Today's Progress**:   

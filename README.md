@@ -1,5 +1,19 @@
 # 100DaysOfCode
 
+### Day 64: November 9, 2017    
+
+**Today's Progress**:   
+1. Today I continued with Udacity's Responsive Web Design Course.  
+
+**Thoughts**:     
+1. I've learnt about media queries, breakpoints and flex properties.  
+2. It important design mobile first and then add media queires using min-width.  
+3. Flex properties: 
+```css
+  display: flex;
+  flex-wrap: wrap;
+```
+4. `order` Property specify the order of element inside the flex container.  
 ### Day 63: November 8, 2017    
 
 **Today's Progress**:   

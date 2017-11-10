@@ -1,5 +1,13 @@
 # 100DaysOfCode
 
+### Day 65: November 10, 2017    
+
+**Today's Progress**:   
+1. Today I continued with Udacity's Responsive Web Design Course.  
+
+**Thoughts**:     
+1. I've learnt about Design Patterns.  
+2. Columns Drop, Mostly fluid, Layout Shfit 
 ### Day 64: November 9, 2017    
 
 **Today's Progress**:   

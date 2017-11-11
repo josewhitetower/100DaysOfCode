@@ -1,5 +1,13 @@
 # 100DaysOfCode
 
+### Day 66: November 11, 2017    
+
+**Today's Progress**:   
+1. Today I finished with Udacity's Responsive Web Design Course.  
+
+**Thoughts**:     
+1. I've learnt about Responsive Tables and Fonts.  
+2. Minor breakpoints.    
 ### Day 65: November 10, 2017    
 
 **Today's Progress**:   

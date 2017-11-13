@@ -1,5 +1,12 @@
 # 100DaysOfCode
 
+### Day 67: November 13, 2017    
+
+**Today's Progress**:   
+1. Today I started with CSS Animations by [@TheNetNinjaUK](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).  
+
+**Thoughts**:     
+1. I've learnt about  Animations, transitions and keyrames.
 ### Day 66: November 11, 2017    
 
 **Today's Progress**:   

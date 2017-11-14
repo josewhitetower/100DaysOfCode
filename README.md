@@ -1,5 +1,10 @@
 # 100DaysOfCode
 
+### Day 68: November 14, 2017    
+
+**Today's Progress**:   
+1. Today I finished with CSS Animations by [@TheNetNinjaUK](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).  
+
 ### Day 67: November 13, 2017    
 
 **Today's Progress**:   

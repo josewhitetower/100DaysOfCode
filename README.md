@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+### Day 69-75: November 14-20, 2017
+
+**Today's Progress**:
+1. I'm in holidays, watched ES6 course by Wes Bos and learned how to use animations and transitions with Vue.js.
 ### Day 68: November 14, 2017    
 
 **Today's Progress**:   

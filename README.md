@@ -1,5 +1,9 @@
 # 100DaysOfCode
 
+### Day 76: November 21, 2017
+
+**Today's Progress**:
+1. I added a small animation to the wikipedia viewer project using Vue.js transitions.
 ### Day 69-75: November 14-20, 2017
 
 **Today's Progress**:

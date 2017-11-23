@@ -1,6 +1,17 @@
 # 100DaysOfCode
 
-### Day 77: November 22, 2017
+### Day 78: November 23, 2017
+
+**Today's Progress**:
+
+1. Today I continued with Wes Bos es6 course
+
+**Thoughts**:
+
+1. I've learnt about destructuring objects and arrays.
+1. for...of is for any iterable element.
+1. for...in is better for objects.
+   ### Day 77: November 22, 2017
 
 **Today's Progress**:
 
@@ -102,7 +113,6 @@ flex-wrap: wrap;
 3. Fetching the Wikipedia API was a mess.
 4.
 
-
 ```javascript
  methods: {
    findArticles() {
@@ -150,7 +160,6 @@ https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2
 
 1. I've learnt How to change the data property.
 2.
-
 
 ```javascript
 methods: {
@@ -501,7 +510,6 @@ voicesDropdown.addEventListener("change", setVoices);
 
 2. Call a function and pass a parameter.
 
-
 ```javascript
 stopButton.addEventListener("click", () => toggle(false));
 stopButton.addEventListener("click", toggle.bind(null, false));
@@ -532,7 +540,6 @@ window.addEventListener("scroll", fixNav);
 3. Build an object and read its properties.
 4. CSS property: transform.
 
-
 ```javascript
    const linkCoords = this.getBoundingClientRect()
        const coords = {
@@ -546,7 +553,6 @@ window.addEventListener("scroll", fixNav);
      highlight.style.transform = `translate(${coords.left}px,${coords.top}px)`
    }
    triggers.forEach(a => a.addEventListener('mouseenter', highlightLink))
-
 ```
 
 ### Day 36: October 11, 2017
@@ -558,7 +564,6 @@ window.addEventListener("scroll", fixNav);
 **Thoughts**:
 
 1. Device Orientation and Navigator Geolocation.
-
 
 ```javascript
 navigator.geolocation.watchPosition(
@@ -586,7 +591,6 @@ if (window.DeviceOrientationEvent) {
 
 1. Speech recognition.
 
-
 ```javascript
 window.SpeechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -603,7 +607,6 @@ recognition.interimResults = true;
 **Thoughts**:
 
 1. Video
-
 
 ```javascript
 function getVideo() {

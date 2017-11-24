@@ -9,6 +9,10 @@
 **Thoughts**:
 
 1. It renders but there are errors in the console, have to check...
+1. Found it! I was retrieving data asyncronously (fetch) so when the template is
+   rendered the data does not exist or is undefined, to fix this I should wait
+   till have the data to render the template (v-if).
+1. Source: https://stackoverflow.com/a/44999923/7146507
    ### Day 78: November 23, 2017
 
 **Today's Progress**:

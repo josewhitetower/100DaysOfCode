@@ -1,6 +1,15 @@
 # 100DaysOfCode
 
-### Day 78: November 23, 2017
+### Day 79: November 24, 2017
+
+**Today's Progress**:
+
+1. Today I started the weather app
+
+**Thoughts**:
+
+1. It renders but there are errors in the console, have to check...
+   ### Day 78: November 23, 2017
 
 **Today's Progress**:
 

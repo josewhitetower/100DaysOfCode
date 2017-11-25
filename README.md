@@ -1,6 +1,17 @@
 # 100DaysOfCode
 
-### Day 79: November 24, 2017
+### Day 80: November 25, 2017
+
+**Today's Progress**:
+
+1. Today I continued the weather app
+
+**Thoughts**:
+
+1. I've decided to create a single component to handle the Temperature.
+1. I've created some props, once the Tempreature component recieve them, it will
+   handle how to show them and convert them to Fahrenheit.
+   ### Day 79: November 24, 2017
 
 **Today's Progress**:
 

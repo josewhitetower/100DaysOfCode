@@ -1,6 +1,12 @@
 # 100DaysOfCode
 
-### Day 80: November 25, 2017
+### Day 81: November 26, 2017
+
+**Today's Progress**:
+
+1. Today I continued the weather app
+1. Refactorized some code and nested a component.
+   ### Day 80: November 25, 2017
 
 **Today's Progress**:
 

@@ -1,6 +1,11 @@
 # 100DaysOfCode
 
-### Day 81: November 26, 2017
+### Day 82: November 27, 2017
+
+**Today's Progress**:
+
+1. Today I didn't code, but had my first contact wth CSS Grid.
+   ### Day 81: November 26, 2017
 
 **Today's Progress**:
 

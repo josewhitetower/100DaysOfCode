@@ -1,5 +1,26 @@
 # 100DaysOfCode
 
+### Day 83: November 28, 2017
+
+**Today's Progress**:
+
+1. Today I continued Wes Bos es6 course
+
+**Thoughts**:
+
+1. Spread operator and Rest Operator `...`.
+1. You cannot translate inline elements.
+1. Using of Rest operator.
+
+```js
+const team = ["Jose", "Jan", "Hyu", "Jen", "Jou"];
+const [captain, assiste, ...rest] = team;
+
+console.log(captain, assistent, rest);
+
+// Jose, Jan, ['Hyu', 'Jen', 'Jou']
+```
+
 ### Day 82: November 27, 2017
 
 **Today's Progress**:

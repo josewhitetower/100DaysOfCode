@@ -14,7 +14,7 @@
 
 ```js
 const team = ["Jose", "Jan", "Hyu", "Jen", "Jou"];
-const [captain, assiste, ...rest] = team;
+const [captain, assistent, ...rest] = team;
 
 console.log(captain, assistent, rest);
 

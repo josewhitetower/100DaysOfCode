@@ -4,7 +4,8 @@
 
 **Today's Progress**:
 
-1. Today I watched after Vue.js filters
+1. Today I watched after Vue.js filters and some jQuery for Google Udacity
+   Scholars.
    ### Day 83: November 28, 2017
 
 **Today's Progress**:

@@ -4,7 +4,9 @@
 
 **Today's Progress**:
 
-1. Today I continued with my weather app. **Thoughts**:
+1. Today I continued with my weather app.
+
+**Thoughts**:
 
 1. ElementUI for Vue.js
 1. How to change the theme and the API

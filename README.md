@@ -1,6 +1,14 @@
 # 100DaysOfCode
 
-### Day 84: November 29, 2017
+### Day 85: December 1, 2017
+
+**Today's Progress**:
+
+1. Today I continued with my weather app. **Thoughts**:
+
+1. ElementUI for Vue.js
+1. How to change the theme and the API
+   ### Day 84: November 29, 2017
 
 **Today's Progress**:
 

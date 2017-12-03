@@ -1,5 +1,16 @@
 # 100DaysOfCode
 
+### Day 87: December 2, 2017
+
+**Today's Progress**:
+
+1. Today I continued with my weather app and refactorized some code.
+### Day 86: December 2, 2017
+
+**Today's Progress**:
+
+1. Today I continued with my weather app.
+
 ### Day 85: December 1, 2017
 
 **Today's Progress**:

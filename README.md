@@ -5,7 +5,12 @@
 **Today's Progress**:
 
 1. Today I continued with my weather app and refactorized some code.
-### Day 86: December 2, 2017
+
+**Thoughts**:
+
+1. The gallery for my portfolio is now made using grid css.
+1. Had to add a fetch and a polyfill package to support old browsers.
+   ### Day 86: December 2, 2017
 
 **Today's Progress**:
 

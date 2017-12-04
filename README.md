@@ -1,6 +1,11 @@
 # 100DaysOfCode
 
-### Day 87: December 2, 2017
+### Day 88: December 24, 2017
+
+**Today's Progress**:
+
+1. Today I worked on my portfolio. 
+### Day 87: December 3, 2017
 
 **Today's Progress**:
 

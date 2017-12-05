@@ -1,11 +1,20 @@
 # 100DaysOfCode
 
-### Day 88: December 24, 2017
+### Day 89: December 2, 2017
 
 **Today's Progress**:
 
-1. Today I worked on my portfolio. 
-### Day 87: December 3, 2017
+1. Today I continued with ES6 by wesbos.
+
+**Thoughts**:
+
+1. I have to figure out how to use autoprefixer for webpack.
+   ### Day 88: December 4, 2017
+
+**Today's Progress**:
+
+1. Today I worked on my portfolio.
+   ### Day 87: December 3, 2017
 
 **Today's Progress**:
 

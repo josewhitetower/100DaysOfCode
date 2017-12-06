@@ -1,6 +1,11 @@
 # 100DaysOfCode
 
-### Day 89: December 2, 2017
+### Day 90: December 6, 2017
+
+**Today's Progress**:
+
+1. Today I continued with ES6 by wesbos adn learnt about eslint. 
+### Day 89: December 5, 2017
 
 **Today's Progress**:
 

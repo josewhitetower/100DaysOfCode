@@ -1,5 +1,10 @@
 # 100DaysOfCode
 
+### Day 93-98: December 10-15, 2017
+
+**Today's Progress**:
+
+1. Today I started to build a full stack app JobBoard. 
 ### Day 92: December 9, 2017
 
 **Today's Progress**:
@@ -10,7 +15,7 @@
 
 **Today's Progress**:
 
-1. Today I continued with ES6 by wesbos and learnt about eslint. 
+1. Today I continued with ES6 by wesbos and learnt about eslint.
 ### Day 90: December 6, 2017
 
 **Today's Progress**:

@@ -1,5 +1,10 @@
 # 100DaysOfCode
 
+### Day 99-100: December 16-17, 2017
+
+**Today's Progress**:
+
+1. This is the log numer 100, I might cry  
 ### Day 93-98: December 10-15, 2017
 
 **Today's Progress**:
